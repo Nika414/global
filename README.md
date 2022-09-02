@@ -8,7 +8,7 @@
 * JavaScript (простая валидация формы)
 
 **GitHub Pages**
-[Ссылка на GitHub Pages](https://nika414.github.io/global/)
+* [Ссылка на GitHub Pages](https://nika414.github.io/global/)
 
 
 **Планируемые доработки**
