@@ -1,0 +1,8 @@
+.intro__img-flags-animation {
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    top: 84px;
+    right: 130px;
+    animation: rotation 5s linear 5.6s infinite;
+}

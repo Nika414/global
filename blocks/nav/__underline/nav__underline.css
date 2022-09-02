@@ -1,0 +1,6 @@
+.nav__underline {
+    width: 21px;
+    height: 0;
+    border-bottom: 1.5px solid #FB9B69;
+    display: none;
+}

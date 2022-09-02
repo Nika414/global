@@ -1,0 +1,9 @@
+.users__add-container {
+    width: 38px;
+    height: 38px;
+    margin: 0 0 0 -17px;
+    background: url(../../../images/Ellipse\ 294.png);
+    background-repeat: no-repeat;
+    position: relative;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.nav {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: 38px 0 0 16.11%;
+    gap: 44px;
+}

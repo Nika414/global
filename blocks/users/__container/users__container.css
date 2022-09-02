@@ -1,0 +1,7 @@
+.users__container {
+    max-width: 101px;
+    margin: 0 0 0 10.6vw;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}

@@ -1,0 +1,34 @@
+@keyframes move-1 {
+    100% {
+        top: 108px;
+        left: -440px;
+    }
+}
+
+@keyframes move-2 {
+    100% {
+        top: -203px;
+        left: -388px;
+    }
+}
+
+@keyframes move-3 {
+    100% {
+        top: -434px;
+        left: 41px;
+    }
+}
+
+@keyframes move-4 {
+    100% {
+        top: -192px;
+        right: -393px;
+    }
+}
+
+@keyframes move-5 {
+    100% {
+        top: 110px;
+        right: -442px;
+    }
+}

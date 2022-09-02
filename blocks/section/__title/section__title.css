@@ -1,0 +1,10 @@
+.section__title {
+    max-width: 375px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+    color: #2D2D2D;
+    margin: 116px 0 0 10.7vw;
+}

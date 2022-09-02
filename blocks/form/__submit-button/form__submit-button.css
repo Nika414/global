@@ -1,0 +1,17 @@
+.form__submit-button {
+    border: none;
+    margin: 0;
+    padding: 0;
+    background: url(../../../images/Search-logo.png);
+    width: 62px;
+    height: 62px;
+    background-color: white;
+    cursor: pointer;
+    transition: color .2s;
+    font-size: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0 100px 100px 0;
+    z-index: 2;
+    position: relative;
+}
