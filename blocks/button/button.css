@@ -1,4 +1,5 @@
 .button {
+    height: 24px;
     background-color: #48B774;
     border-radius: 20px;
     padding: 9px 0 9px 0;
@@ -9,4 +10,7 @@
     line-height: 24px;
     color: #FFFFFF;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
 }

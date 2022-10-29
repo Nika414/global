@@ -17,6 +17,7 @@
 @import url(./blocks/button/button.css);
 @import url(./blocks/button/_place/_header/button_place_header.css);
 @import url(./blocks/button/_place/_intro/button_place_intro.css);
+@import url(./blocks/button/__span/button__span.css);
 
 @import url(./blocks/section/__title/section__title.css);
 @import url(./blocks/section/__subtitle/section__subtitle.css);
